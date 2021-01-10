@@ -44,7 +44,7 @@ Project
 
 Code:
 - [Monorepo](https://github.com/ecron11/munchi)
-- Front End
+- [Front End](https://github.com/ecron11/Munchi-Frontend)
 - [Back End](https://github.com/ecron11/munchi-server)
 
 ### Real time with web sockets
