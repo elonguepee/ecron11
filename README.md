@@ -11,7 +11,7 @@ Hello! I'm Erik, a full-stack developer, an Information technology professional,
 ## What I'm doing:
 
 ### 100 days of code
-I'm currently doing the 100 days of code challenge, and I'm on day 30. I'm using it as an opportunity to learn a lot of new stuff and get a better portfolio together, in order to showcase what I'm really capable of. I'm focusing on the MERN stack and AWS. Check out the Repo for it here: [100 Days of Code](https://github.com/ecron11/100DaysOfCode)
+I'm currently doing the 100 days of code challenge, and I'm on day 31. I'm using it as an opportunity to learn a lot of new stuff and get a better portfolio together, in order to showcase what I'm really capable of. I'm focusing on the MERN stack and AWS. Check out the Repo for it here: [100 Days of Code](https://github.com/ecron11/100DaysOfCode)
 
 ### Projects!
 This section is a list of all of my skills and a project that I've worked on that demonstrates them. It also serves a sort of todo list of skills I plan on learning. I feel like I can't really say I've learned a technology unless I've done some sort of project on it. Many of these projects use other technologies on the list, but each project generally represents an effort to either learn or showcase the technology. Thanks for checking them out!
