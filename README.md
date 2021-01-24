@@ -17,7 +17,7 @@ I'm currently doing the 100 days of code challenge, and I'm on day 38. I'm using
 This section is a list of some of my skills and projects that I've worked on that demonstrates them. Many of these projects use other technologies on the list, but for each skill/technology I've chosen a project that I believe showcases it best. Thanks for checking them out!
 
 
-Highlights
+### Highlights
 Munchi :orange: | Hasher :closed_lock_with_key: | Subnet Lab :microscope:
 -------|--------|-----------
 My full stack kitchen managment app! | A Node API for checking Hashing algorithms! | A lab for checking your subnetting abilities
