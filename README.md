@@ -11,7 +11,7 @@ Hello! I'm Erik, a full-stack developer, an Information technology professional,
 ## What I'm doing:
 
 ### 100 days of code
-I'm currently doing the 100 days of code challenge, and I'm on day 38. I'm using it as an opportunity to learn a lot of new stuff and create a better portfolio. Check out the Repo for it here: [100 Days of Code](https://github.com/ecron11/100DaysOfCode)
+I'm currently doing the 100 days of code challenge, and I'm on day 39. I'm using it as an opportunity to learn a lot of new stuff and create a better portfolio. Check out the Repo for it here: [100 Days of Code](https://github.com/ecron11/100DaysOfCode)
 
 ### Projects!
 This section is a list of some of my skills and projects that I've worked on that demonstrates them. Many of these projects use other technologies on the list, but for each skill/technology I've chosen a project that I believe showcases it best. Thanks for checking them out!
