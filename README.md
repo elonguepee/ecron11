@@ -1,6 +1,6 @@
 # Hi I'm Erik!
 
-Hello! I'm Erik, a full-stack developer, an Information technology professional, and cloud enthusiast! I love technology, solving problems, and solving problems with technology. I'm a developer and aspiring devops pro. My goal right now is to get my portfolio updated with good projects, as well as to continue my 100 days of code challenge. I'd love to connect with you, especially if you want to work together.
+Hello! I'm Erik, a full-stack developer, an Information technology professional, and cloud enthusiast! I love technology, solving problems, and solving problems with technology. I'm a developer getting into DevOps. My goal right now is to get my portfolio updated with good projects, as well as to continue my 100 days of code challenge. I'd love to connect with you, especially if you want to work together.
 
 [Portfolio](https://www.erik-longuepee.com/)
 
@@ -11,7 +11,7 @@ Hello! I'm Erik, a full-stack developer, an Information technology professional,
 ## What I'm doing:
 
 ### 100 days of code
-I'm currently doing the 100 days of code challenge, and I'm on day 59. I'm using it as an opportunity to learn a lot of new stuff and create a better portfolio. Check out the Repo for it here: [100 Days of Code](https://github.com/ecron11/100DaysOfCode)
+I'm currently doing the 100 days of code challenge, and I'm on day 60. I'm using it as an opportunity to learn a lot of new stuff and create a better portfolio. Check out the Repo for it here: [100 Days of Code](https://github.com/ecron11/100DaysOfCode)
 
 ### Projects!
 This section is a list of some of my skills and projects that I've worked on that demonstrates them. Many of these projects use other technologies on the list, but for each skill/technology I've chosen a project that I believe showcases it best. Thanks for checking them out!
